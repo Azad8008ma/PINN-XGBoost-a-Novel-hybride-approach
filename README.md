@@ -1,4 +1,4 @@
-باشه، یک فایل `
+
 # PINN-XGBoost: Physics-Informed Neural Network with XGBoost Residual Correction for Nuclear Separation Energy Predictions
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
@@ -35,25 +35,6 @@ The framework consists of two stages:
 2. **XGBoost Residual Correction**
    - XGBoost regressor trained on the PINN residuals: r_i = y_i^exp − y_i^PINN
    - Final prediction: y_i^final = y_i^PINN + XGBoost(r_i)
-
----
-
-## 📁 Repository Structure
-
-```
-.
-├── mainprog.py                 # Main training and evaluation pipeline
-├── data/
-│   └── ame2020_predictions.csv # Preprocessed AME2020 dataset (see below)
-├── results/                    # Output directory (auto-created)
-│   ├── Figure1_Performance_Ablation.png
-│   ├── Figure2_Parity_Plot_S_n.png
-│   ├── Figure2_Parity_Plot_S_p.png
-│   ├── Figure3_Heatmaps.png
-│   └── report.txt
-├── README.md
-└── LICENSE
-```
 
 ---
 
