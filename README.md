@@ -209,5 +209,7 @@ For questions, bug reports, or collaboration inquiries, please open an issue or 
 
 **Hassan Khalili** — corresponding author
 Arak University
+Email: h-khalili@araku.ac.ir
 **Mahdi AzadMarzabadi** — Software and Coauthor
 Arak University
+azadmahdi19@gmail.com
