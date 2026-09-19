@@ -207,7 +207,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 For questions, bug reports, or collaboration inquiries, please open an issue or contact:
 
-**Hossein Khalili** — corresponding author
+**Hassan Khalili** — corresponding author
 Arak University
 **Mahdi AzadMarzabadi** — Software and Coauthor
 Arak University
